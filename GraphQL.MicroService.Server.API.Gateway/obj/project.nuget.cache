@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WG8X9T3VS2iVrU6LpyFBwrqnZMhaoVzu/8BB1S3gIVxc87SkSJG4o482MbNsUBGncwGV440nL3YFMomasV0WOg==",
+  "success": true,
+  "projectFilePath": "C:\\learning\\DotnetProject\\GraphQL.MicroService.Server\\GraphQL.MicroService.Server.API.Gateway\\GraphQL.MicroService.Server.API.Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UN425DY\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\UN425DY\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\UN425DY\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\UN425DY\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\UN425DY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\UN425DY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
