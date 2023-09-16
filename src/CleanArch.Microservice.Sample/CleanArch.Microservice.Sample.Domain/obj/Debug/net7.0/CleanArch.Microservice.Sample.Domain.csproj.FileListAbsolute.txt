@@ -1,0 +1,12 @@
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/bin/Debug/net7.0/CleanArch.Microservice.Sample.Domain.deps.json
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/bin/Debug/net7.0/CleanArch.Microservice.Sample.Domain.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/bin/Debug/net7.0/CleanArch.Microservice.Sample.Domain.pdb
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/CleanArch.Microservice.Sample.Domain.csproj.AssemblyReference.cache
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/CleanArch.Microservice.Sample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/CleanArch.Microservice.Sample.Domain.AssemblyInfoInputs.cache
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/CleanArch.Microservice.Sample.Domain.AssemblyInfo.cs
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/CleanArch.Microservice.Sample.Domain.csproj.CoreCompileInputs.cache
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/CleanArch.Microservice.Sample.Domain.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/refint/CleanArch.Microservice.Sample.Domain.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/CleanArch.Microservice.Sample.Domain.pdb
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Domain/obj/Debug/net7.0/ref/CleanArch.Microservice.Sample.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m406BRbZEiQ9jpDlaf4K8n8oQPkzaGVi9MqC+nC4q7Y=",
+  "Source": "CleanArch.Microservice.Sample.Api",
+  "BasePath": "_content/CleanArch.Microservice.Sample.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/bin/Debug/net7.0/CleanArch.Microservice.Sample.Core.deps.json
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/bin/Debug/net7.0/CleanArch.Microservice.Sample.Core.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/bin/Debug/net7.0/CleanArch.Microservice.Sample.Core.pdb
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.csproj.AssemblyReference.cache
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.AssemblyInfoInputs.cache
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.AssemblyInfo.cs
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.csproj.CoreCompileInputs.cache
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/refint/CleanArch.Microservice.Sample.Core.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.pdb
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/ref/CleanArch.Microservice.Sample.Core.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/bin/Debug/net7.0/CleanArch.Microservice.Sample.Domain.dll
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/bin/Debug/net7.0/CleanArch.Microservice.Sample.Domain.pdb
+/workspaces/CleanArchMicroService/src/CleanArch.Microservice.Sample/CleanArch.Microservice.Sample.Core/obj/Debug/net7.0/CleanArch.Microservice.Sample.Core.csproj.CopyComplete
